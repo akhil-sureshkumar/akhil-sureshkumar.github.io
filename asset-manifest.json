@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.62637779.css",
+    "main.js": "/static/js/main.e964133a.js",
+    "static/media/akhil_mask_7.jpg": "/static/media/akhil_mask_7.9a43adc661d78fa1b20f.jpg",
+    "static/media/postgresql.png": "/static/media/postgresql.1b904635aedb7c19150d.png",
+    "static/media/react.png": "/static/media/react.81ed438b18e24116794d.png",
+    "static/media/c.png": "/static/media/c.bbbbbabc8c191bfb99bf.png",
+    "static/media/github.png": "/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/javascript.png": "/static/media/javascript.ba8930b16477cd078808.png",
+    "static/media/python.png": "/static/media/python.04ddea1b43164f05b756.png",
+    "index.html": "/index.html",
+    "main.62637779.css.map": "/static/css/main.62637779.css.map",
+    "main.e964133a.js.map": "/static/js/main.e964133a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62637779.css",
+    "static/js/main.e964133a.js"
+  ]
+}
